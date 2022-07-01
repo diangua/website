@@ -826,7 +826,7 @@ valine:
 # Derived from Valine, with self-hosted service and new features
 # See: https://waline.js.org/
 waline:
-  serverURL: 'https://waline-ken10111.vercel.app/'
+  serverURL: 'https://waline.ken10111.ml/'
   path: window.location.pathname
   meta: ['nick', 'mail', 'link']
   requiredMeta: ['nick']
